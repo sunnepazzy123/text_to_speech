@@ -1,13 +1,13 @@
 {
-  "name": "type-n-speak",
-  "homepage": "https://bradtraversy.github.io/type-n-speak",
+  "name": "text2speech",
+  "homepage": "https://sunnepazzy123.github.io/text_to_speech",
   "version": "1.0.0",
   "description": "Text to speak and synthesis app using the web speech API",
   "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
-  "author": "Brad Traversy",
+  "author": "Sunday Odibo",
   "license": "MIT",
   "dependencies": {
     "gh-pages": "^1.2.0"
