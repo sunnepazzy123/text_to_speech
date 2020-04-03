@@ -5,6 +5,7 @@
   "description": "Text to speak and synthesis app using the web speech API",
   "main": "index.js",
   "scripts": {
+    "redeploy": "npm run build"
     "deploy": "gh-pages -d dist"
   },
   "author": "Sunday Odibo",
